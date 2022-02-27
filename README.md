@@ -1,2 +1,5 @@
 # Exercicos_Trybe_JB
-Trybe Turma 21 - A
+
+Testes de Exercicios Github
+
+Trybe Turma 21 -  A
